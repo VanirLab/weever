@@ -20,10 +20,13 @@ sphinx-argparse - cli parameter documentation
 graphviz - unix tool. generates graphs, used in the documentation
 
 ## Installation
+
 # To run unit tests before installing
 $ sudo python setup.py test
+
 # Install the program
 $ sudo python setup.py install
+
 # Create documentation
 $ pip install sphinx sphinx-argparse
 $ python setup.py doc
